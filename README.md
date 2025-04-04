@@ -1,2 +1,2 @@
-# TAZ-to-ZIPCode
-Creating a dataset that contains TAZID and ZIPCode information
+# TDM-INP-Parcel-to-TAZ
+Creating a dataset that contains TAZID and Parcel information
